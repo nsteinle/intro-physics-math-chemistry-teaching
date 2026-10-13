@@ -12,10 +12,10 @@ Lecture notes and problem-solving resources I have written and used while teachi
 ## Contents
 | Topic | Materials | Level |
 | --- | --- | --- |
-| 9th-Grade-Geometry-Ratios-and_Proportions | Lecture notes | High School |
-| AP-Chemistry-Phase-Diagrams | Lecture notes | High School |
-| AP-Physics-Circuits-and-Ohms-Law-Lab | Lecture notes and Lab Manual | High School |
-| AP-Physics-Oscillations | Lecture notes | High School |
+| 9th-Grade-Geometry-Ratios-and_Proportions | Lecture notes (2026) | High School |
+| AP-Chemistry-Phase-Diagrams | Lecture notes | High School (2026) |
+| AP-Physics-Circuits-and-Ohms-Law-Lab | Lecture notes and Lab Manual (2026) | High School |
+| AP-Physics-Oscillations | Lecture notes (2026) | High School |
 
 
 ## About these materials
