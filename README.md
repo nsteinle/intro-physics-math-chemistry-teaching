@@ -1,8 +1,8 @@
-# intro-physics-math-chemistry-teaching
+## intro-physics-math-chemistry-teaching
 Lecture notes and problem-solving resources for introductory physics and some math and chemistry (waves, oscillations, E&amp;M, geometry, phase diagrams).
 
 
-# Introductory Physics, Chemistry, and Geometry Teaching Materials
+## Introductory Physics, Chemistry, and Geometry Teaching Materials
 Lecture notes and problem-solving resources I have written and used while teaching introductory courses aligned with the AP curriculum. 
 
 
