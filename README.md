@@ -2,9 +2,6 @@
 Lecture notes and problem-solving resources for introductory physics and some math and chemistry (waves, oscillations, E&amp;M, geometry, phase diagrams).
 
 
-_______________________________________________________________________________________
-
-
 # Introductory Physics, Chemistry, and Geometry Teaching Materials
 Lecture notes and problem-solving resources I have written and used while teaching introductory courses aligned with the AP curriculum. 
 
